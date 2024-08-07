@@ -10,7 +10,6 @@ This project implements a smart contract for staking NFTs that rewards users wit
 - [Deployment](#deployment)
 - [Running Tests](#running-tests)
 - [Contract Details](#contract-details)
-- [License](#license)
 
 ## Prerequisites
 
